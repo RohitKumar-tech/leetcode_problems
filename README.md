@@ -13,5 +13,6 @@ This is the repository where I will be sharing my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0007-reverse-integer) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
