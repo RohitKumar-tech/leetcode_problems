@@ -15,6 +15,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 ## Array
 |  |
