@@ -6,6 +6,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
