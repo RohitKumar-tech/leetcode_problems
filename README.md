@@ -23,6 +23,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -32,4 +33,5 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
