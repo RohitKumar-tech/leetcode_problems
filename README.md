@@ -12,12 +12,14 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -31,6 +33,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
