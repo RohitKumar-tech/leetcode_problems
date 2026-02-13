@@ -25,6 +25,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -45,4 +46,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
