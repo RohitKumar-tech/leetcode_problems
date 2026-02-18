@@ -33,6 +33,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
