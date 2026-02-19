@@ -21,6 +21,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0007-reverse-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -76,4 +77,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
