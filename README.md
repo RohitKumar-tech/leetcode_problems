@@ -34,6 +34,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
@@ -45,6 +46,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
