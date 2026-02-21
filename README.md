@@ -31,6 +31,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
@@ -57,6 +58,7 @@ This is the repository where I will be sharing my leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -95,4 +97,5 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
