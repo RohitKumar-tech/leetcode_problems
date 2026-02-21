@@ -26,6 +26,9 @@ public:
         int freq[nums.size()];
         for(int i=0 ; i<nums.size() ; i++) freq[i]=0;
         recurPermute(ds , nums , ans , freq);
-        return ans;
+
+        set<vector<int>> st(ans.begin(), ans.end());
+        return vector<vector<int>>(st.begin(), st.end());
+
     }
 };
