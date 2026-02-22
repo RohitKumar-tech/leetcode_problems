@@ -39,6 +39,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
@@ -98,4 +99,12 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
