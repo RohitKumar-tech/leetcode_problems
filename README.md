@@ -74,6 +74,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,4 +110,12 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
