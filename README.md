@@ -42,6 +42,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +120,12 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
