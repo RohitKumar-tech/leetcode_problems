@@ -123,9 +123,14 @@ This is the repository where I will be sharing my leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
