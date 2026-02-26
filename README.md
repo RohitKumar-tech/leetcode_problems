@@ -16,6 +16,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0014-longest-common-prefix](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Counting
 |  |
 | ------- |
