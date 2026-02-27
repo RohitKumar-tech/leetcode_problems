@@ -24,6 +24,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0009-palindrome-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
+| [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +139,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
