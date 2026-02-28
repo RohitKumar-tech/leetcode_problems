@@ -25,6 +25,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0191-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Counting
 |  |
 | ------- |
