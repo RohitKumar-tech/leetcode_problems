@@ -23,6 +23,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0007-reverse-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -36,6 +37,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
@@ -88,6 +90,7 @@ This is the repository where I will be sharing my leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
 ## Greedy
