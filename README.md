@@ -15,6 +15,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
@@ -38,6 +39,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
@@ -54,6 +56,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +71,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
