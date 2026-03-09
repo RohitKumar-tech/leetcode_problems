@@ -85,6 +85,7 @@ This is the repository where I will be sharing my leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -119,6 +120,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -129,10 +131,12 @@ This is the repository where I will be sharing my leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
 |  |
