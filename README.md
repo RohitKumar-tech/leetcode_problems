@@ -51,6 +51,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0860-lemonade-change) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
