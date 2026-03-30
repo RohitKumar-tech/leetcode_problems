@@ -6,6 +6,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 ## String
@@ -35,6 +36,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0046-permutations) |
