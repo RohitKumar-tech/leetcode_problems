@@ -50,6 +50,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0682-baseball-game) |
@@ -68,6 +69,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0706-design-hashmap](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0706-design-hashmap) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
@@ -161,6 +164,7 @@ This is the repository where I will be sharing my leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
