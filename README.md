@@ -10,6 +10,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0075-sort-colors](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0020-valid-parentheses](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0344-reverse-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
