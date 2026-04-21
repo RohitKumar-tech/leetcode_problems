@@ -9,6 +9,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0027-remove-element](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0344-reverse-string) |
 ## String
@@ -31,6 +32,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2383-add-two-integers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/2383-add-two-integers) |
@@ -49,6 +51,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
