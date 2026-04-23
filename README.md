@@ -6,6 +6,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -43,6 +44,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0041-first-missing-positive) |
