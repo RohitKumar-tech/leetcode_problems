@@ -35,6 +35,7 @@ This is the repository where I will be sharing my leetcode solutions
 | [0013-roman-to-integer](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -101,6 +102,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
