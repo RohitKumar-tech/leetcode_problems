@@ -103,6 +103,7 @@ This is the repository where I will be sharing my leetcode solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +198,8 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0706-design-hashmap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
