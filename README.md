@@ -132,6 +132,7 @@ This is the repository where I will be sharing my leetcode solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -189,6 +190,7 @@ This is the repository where I will be sharing my leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/RohitKumar-tech/leetcode_problems/tree/master/0706-design-hashmap) |
 ## Design
 |  |
